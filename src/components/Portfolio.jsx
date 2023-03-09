@@ -1,36 +1,36 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/";
-import installNode from "../assets/portfolio/";
-import navbar from "../assets/portfolio/navbar.";
-import reactParallax from "../assets/portfolio/";
-import reactSmooth from "../assets/portfolio/r";
-import reactWeather from "../assets/portfolio/";
+import passwordGenerator from "../assets/projectImages/passwordGenerator.jpg";
+import workdayScheduler from "../assets/projectImages/workdayScheduler.jpeg";
+import mealsandTotties from "../assets/portfolio/mealsandTotties.jpeg";
+import readmeGenerator from "../assets/portfolio/readmeGenerator.jpg";
+import mysqlemployeeTracker from "../assets/portfolio/mysqlemployeeTracker.jpeg";
+import booksearchDatabase from "../assets/portfolio/booksearchDatabase.jpg";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: ,
+      src: passwordGenerator ,
     },
     {
       id: 2,
-      src: 
+      src: workdayScheduler, 
     },
     {
       id: 3,
-      src: navbar,
+      src: mealsandTotties,
     },
     {
       id: 4,
-      src: ,
+      src: readmeGenerator,
     },
     {
       id: 5,
-      src: ,
+      src: mysqlemployeeTracker,
     },
     {
       id: 6,
-      src: ,
+      src: booksearchDatabase,
     },
   ];
 
