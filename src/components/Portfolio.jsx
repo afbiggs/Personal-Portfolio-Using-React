@@ -1,10 +1,10 @@
 import React from "react";
-import passwordGenerator from "../assets/projectImages/passwordGenerator.jpg";
-import workdayScheduler from "../assets/projectImages/workdayScheduler.jpeg";
-import mealsandTotties from "../assets/portfolio/mealsandTotties.jpeg";
-import readmeGenerator from "../assets/portfolio/readmeGenerator.jpg";
-import mysqlemployeeTracker from "../assets/portfolio/mysqlemployeeTracker.jpeg";
-import booksearchDatabase from "../assets/portfolio/booksearchDatabase.jpg";
+import passwordGenerator from "../assets/passwordGenerator.jpg";
+import workdayScheduler from "../assets/workdayScheduler.jpeg";
+import mealsandTotties from "../assets/mealsandTotties.jpeg";
+import readmeGenerator from "../assets/readmeGenerator.jpg";
+import mysqlemployeeTracker from "../assets/mysqlemployeeTracker.jpeg";
+import booksearchDatabase from "../assets/booksearchDatabase.jpg";
 
 const Portfolio = () => {
   const portfolios = [
@@ -49,7 +49,7 @@ const Portfolio = () => {
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
           {portfolios.map(({ id, src }) => (
-            <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
+            <div key={1} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
                 alt=""
