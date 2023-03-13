@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio-Using-React/static/css/main.6f190704.css",
+    "main.js": "/Personal-Portfolio-Using-React/static/js/main.5a28fde9.js",
+    "static/media/mealsandTotties.jpeg": "/Personal-Portfolio-Using-React/static/media/mealsandTotties.1791f55c39622d0a6ed5.jpeg",
+    "static/media/booksearchDatabase.jpg": "/Personal-Portfolio-Using-React/static/media/booksearchDatabase.9177f6fa5eaea81fbd3e.jpg",
+    "static/media/workdayScheduler.jpeg": "/Personal-Portfolio-Using-React/static/media/workdayScheduler.6f2aec6d6d5c9e0f039a.jpeg",
+    "static/media/readmeGenerator.jpg": "/Personal-Portfolio-Using-React/static/media/readmeGenerator.54f1cfa9c9ea931a558f.jpg",
+    "static/media/mysqlemployeeTracker.jpeg": "/Personal-Portfolio-Using-React/static/media/mysqlemployeeTracker.6cbba16714d36fceec2b.jpeg",
+    "static/media/passwordGenerator.jpg": "/Personal-Portfolio-Using-React/static/media/passwordGenerator.eaa10f83f17192271913.jpg",
+    "index.html": "/Personal-Portfolio-Using-React/index.html",
+    "main.6f190704.css.map": "/Personal-Portfolio-Using-React/static/css/main.6f190704.css.map",
+    "main.5a28fde9.js.map": "/Personal-Portfolio-Using-React/static/js/main.5a28fde9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f190704.css",
+    "static/js/main.5a28fde9.js"
+  ]
+}
