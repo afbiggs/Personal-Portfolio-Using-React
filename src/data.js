@@ -17,20 +17,20 @@ export const projects = [
       link: "https://github.com/afbiggs/bookish-octo-funicular",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "",
+      subtitle: "",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
+        "",
+      image: "",
+      link: "",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "",
+      subtitle: "",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
+        "",
+      image: "",
+      link: "",
     },
   ];
 
