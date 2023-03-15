@@ -17,20 +17,36 @@ export const projects = [
       link: "https://github.com/afbiggs/bookish-octo-funicular",
     },
     {
-      title: "",
-      subtitle: "",
+      title: "MySQL Employee Tracker",
+      subtitle: "Nodejs, Inquirer, MySQL",
       description:
-        "",
-      image: "",
-      link: "",
+        "This application is an Workplace Employee Tracker utilizing Mysql database. The interface utilizes inquirer.js to create a CLI for users to interact with add, change, or remove employees from roles, departments, or jobs.",
+      image: require("./assets/mysqlemployeeTracker.jpeg"),
+      link: "https://github.com/afbiggs/mysql-employee-tracker",
     },
     {
-      title: "",
-      subtitle: "",
+      title: "Meals and Totties (Group Project)",
+      subtitle: "JavaScript, 3rd Party APIs, HTML",
       description:
-        "",
-      image: "",
-      link: "",
+        "A functioning web application which upon a users input will produce a recommendation for a cocktail and meal to be paired with it. The application pulls in the data by utilizing two different API's, The Cocktail DB and The Meal DB.",
+      image: require("./assets/mealsandTotties.jpeg"),
+      link: "https://ghostofthemill.github.io/project-p1g5/",
     },
+    {
+        title: "",
+        subtitle: "",
+        description:
+          "",
+        image: "",
+        link: "",
+      },
+      {
+        title: "",
+        subtitle: "",
+        description:
+          "",
+        image: "",
+        link: "",
+      },
   ];
 
