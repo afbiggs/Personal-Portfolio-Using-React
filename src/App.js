@@ -29,6 +29,7 @@ import Contact from "./components/Contact";
 import Home from "./components/Home";
 import NavBar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
+import SocialLinks from "./components/SocialLinks";
 
 
 function App() {
@@ -39,7 +40,9 @@ function App() {
       <AboutMe />
       <Portfolio />
       <Contact />
-      
+
+      <SocialLinks />
+
     </div>
   );
 }
