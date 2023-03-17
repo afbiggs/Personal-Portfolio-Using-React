@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/Personal-Portfolio-Using-React/static/css/main.6f190704.css",
-    "main.js": "/Personal-Portfolio-Using-React/static/js/main.5a28fde9.js",
+    "main.css": "/Personal-Portfolio-Using-React/static/css/main.0c13617c.css",
+    "main.js": "/Personal-Portfolio-Using-React/static/js/main.542dcbd0.js",
     "static/media/mealsandTotties.jpeg": "/Personal-Portfolio-Using-React/static/media/mealsandTotties.1791f55c39622d0a6ed5.jpeg",
     "static/media/booksearchDatabase.jpg": "/Personal-Portfolio-Using-React/static/media/booksearchDatabase.9177f6fa5eaea81fbd3e.jpg",
     "static/media/workdayScheduler.jpeg": "/Personal-Portfolio-Using-React/static/media/workdayScheduler.6f2aec6d6d5c9e0f039a.jpeg",
-    "static/media/readmeGenerator.jpg": "/Personal-Portfolio-Using-React/static/media/readmeGenerator.54f1cfa9c9ea931a558f.jpg",
+    "static/media/readme-generator-scaled.jpg": "/Personal-Portfolio-Using-React/static/media/readme-generator-scaled.8cfcfaef56d48a26307d.jpg",
+    "static/media/portrait.jpeg": "/Personal-Portfolio-Using-React/static/media/portrait.243a405c418bbc367af7.jpeg",
+    "static/media/graphql.png": "/Personal-Portfolio-Using-React/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/mysqlemployeeTracker.jpeg": "/Personal-Portfolio-Using-React/static/media/mysqlemployeeTracker.6cbba16714d36fceec2b.jpeg",
+    "static/media/Alexander-Biggs-Resume.pdf": "/Personal-Portfolio-Using-React/static/media/Alexander-Biggs-Resume.3b0d779fac7473c3848a.pdf",
     "static/media/passwordGenerator.jpg": "/Personal-Portfolio-Using-React/static/media/passwordGenerator.eaa10f83f17192271913.jpg",
+    "static/media/html5.png": "/Personal-Portfolio-Using-React/static/media/html5.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Personal-Portfolio-Using-React/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css3.png": "/Personal-Portfolio-Using-React/static/media/css3.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Personal-Portfolio-Using-React/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Personal-Portfolio-Using-React/index.html",
-    "main.6f190704.css.map": "/Personal-Portfolio-Using-React/static/css/main.6f190704.css.map",
-    "main.5a28fde9.js.map": "/Personal-Portfolio-Using-React/static/js/main.5a28fde9.js.map"
+    "main.0c13617c.css.map": "/Personal-Portfolio-Using-React/static/css/main.0c13617c.css.map",
+    "main.542dcbd0.js.map": "/Personal-Portfolio-Using-React/static/js/main.542dcbd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f190704.css",
-    "static/js/main.5a28fde9.js"
+    "static/css/main.0c13617c.css",
+    "static/js/main.542dcbd0.js"
   ]
 }
