@@ -30,6 +30,7 @@ import Home from "./components/Home";
 import NavBar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
 import SocialLinks from "./components/SocialLinks";
+import Experience from "./components/Experience";
 
 
 function App() {
@@ -39,6 +40,7 @@ function App() {
       <Home />
       <AboutMe />
       <Portfolio />
+      <Experience />
       <Contact />
 
       <SocialLinks />

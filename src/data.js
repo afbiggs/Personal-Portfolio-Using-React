@@ -33,20 +33,20 @@ export const projects = [
       link: "https://ghostofthemill.github.io/project-p1g5/",
     },
     {
-        title: "",
-        subtitle: "",
+        title: "Random Password Generator",
+        subtitle: "JavaScript, HTML, CSS",
         description:
-          "",
-        image: "",
-        link: "",
+          " A dynamic password generator used to randomly output a password consisting of 4 criteria choices that the user is able to choose from. These choices ask the user if they would like to include uppercase, lowercase, numbers, and or special symbols in the generation of the password.",
+        image: require("./assets/passwordGenerator.jpg"),
+        link: "https://github.com/afbiggs/random-password-generator",
       },
       {
-        title: "",
-        subtitle: "",
+        title: "Book Search Database ",
+        subtitle: "Group Project Utilizing: MySQL, Handlebars, JavaScript, Bootstrap",
         description:
-          "",
-        image: "",
-        link: "",
+          "This application is a library database which allows the user to add and store books they have read to their own personal collection. This app's purpose is to allow the users to easily see and track books they have read.",
+        image: require("./assets/booksearchDatabase.jpg"),
+        link: "https://github.com/afbiggs/library-ghost",
       },
   ];
 
